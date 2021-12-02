@@ -86,6 +86,12 @@ tinhTong(a: 5, b: 10)
 tinhTong(a: 5, b: 10)
 print(tinhTong(a: 5, b: 10))
 
+tinhTong(a: 5, b: 10)
+tinhTong(a: 5, b: 10)
+print(tinhTong(a: 5, b: 10))
+
+
+
 func tinhTong2(a: Int, b: Int) -> Int {
     print("Tinh tổng đê")
     return a+b
