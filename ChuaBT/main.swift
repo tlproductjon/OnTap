@@ -148,6 +148,8 @@ danhSachSinhVien.append(sv2)
 
 for sinhVien in danhSachSinhVien {
     print(sinhVien.hoTen)
+    
+    
 }
 
 for i in 0..<danhSachSinhVien.count {
